@@ -1,1 +1,6 @@
 # PL4-receitas-com-lau
+# Objetivo
+# O objetivo do projeto é desenvolver uma plataforma digital completa e intuitiva para compartilhar, buscar e organizar receitas culinárias de maneira personalizada, promovendo uma experiência prática e inspiradora na cozinha. O site busca se tornar uma referência para usuários que desejam cozinhar em casa, seja por necessidade, saúde ou prazer, oferecendo funcionalidades que incentivem a interação entre os membros da comunidade e o acesso facilitado a conteúdos gastronômicos de qualidade.
+
+# Tecnologias
+# Para o desenvolvimento do site de receitas, serão utilizadas tecnologias modernas e escaláveis. No front-end, o React será utilizado para criar uma interface dinâmica e responsiva, com suporte ao framework Tailwind CSS para estilização ágil. No back-end, será adotado Node.js com Express para a criação da API, e MongoDB como banco de dados NoSQL, garantindo flexibilidade no armazenamento de receitas e perfis de usuário. A autenticação será implementada com JWT (JSON Web Tokens). Além disso, a plataforma poderá ser hospedada na Vercel ou Heroku durante a fase inicial, com planos futuros de migração para AWS ou Google Cloud para maior escalabilidade. Outras ferramentas desejadas incluem Algolia para buscas rápidas e Cloudinary para gerenciamento otimizado de imagens das receitas.
